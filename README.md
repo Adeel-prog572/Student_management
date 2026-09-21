@@ -1,4 +1,7 @@
 # Student Management System
+## Project Preview
+
+![Student Management System](Student_management.png)
 
 A simple Student Management System built with PHP, MySQL, HTML, CSS, and JavaScript.
 
